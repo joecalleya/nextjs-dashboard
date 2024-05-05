@@ -1,6 +1,8 @@
 import { CheckIcon, ClockIcon } from '@heroicons/react/24/outline';
 import clsx from 'clsx';
 
+// we can conditionally stlye elements here using out clsx library
+
 export default function InvoiceStatus({ status }: { status: string }) {
   return (
     <span
