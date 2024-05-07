@@ -5,3 +5,4 @@ node_modules
 .next/static/
 .next/cache/webpack/client-development/
 .next/cache/webpack/server-development/
+client-development/
