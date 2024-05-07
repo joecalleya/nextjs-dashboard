@@ -6,3 +6,5 @@ node_modules
 .next/cache/webpack/client-development/
 .next/cache/webpack/server-development/
 client-development/
+.next/server/
+.next/trace/
