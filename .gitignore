@@ -1,4 +1,7 @@
 #addingn temp files to git ignmore  
 
 node_modules
-cache/
+.next/cache/
+.next/static/
+.next/cache/webpack/client-development/
+.next/cache/webpack/server-development/
